@@ -1,0 +1,30 @@
+{
+  "name": "globalbutton",
+  "version": "1.0.1",
+  "description": "Write a button (component Button).",
+  "main": "GlobalButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VardanMelik/global-button-npm.git"
+  },
+  "keywords": [
+    "Global",
+    "Button",
+    "Component"
+  ],
+  "author": "Vardan Meliksetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VardanMelik/global-button-npm/issues"
+  },
+  "homepage": "https://github.com/VardanMelik/global-button-npm#readme",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.0",
+    "react": "^18.2.0"
+  }
+}
